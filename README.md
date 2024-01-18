@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Aarna Tech Consultant Pvt Ltd](https://www.atcuality.com/)
 
-- 🌱 I’m currently learning **Full Stack Development Bootcamp - JavaScript in UPGRADE**
+- 🌱 I’m currently learning **Full Stack Development Bootcamp - JavaScript in UPGRAD**
 
 - 📫 How to reach me **yesha.kushwaha@gmail.com**
 

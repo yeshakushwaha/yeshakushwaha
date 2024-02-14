@@ -1,6 +1,6 @@
 ![logo](https://github.com/yeshakushwaha/yeshakushwaha/blob/main/gitbanner.jpg)
 <h1 align="center">Hi 👋, I'm Yesha Kushwaha</h1>
-<h3 align="center">A passionate Frontend Web Developer from India</h3>
+<h3 align="center">A passionate React Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" />
 

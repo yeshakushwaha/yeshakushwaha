@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Github Profile</title>
-  </head>
-  <body style="background-color: #313131;">
     <!-- Animated Wave Header -->
     <div align="center">
       <svg
@@ -112,42 +104,121 @@
 
     <!-- Profile Views & Followers -->
     <div align="center">
-        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="170.29345703125"
-  height="28"
-  role="img"
-  aria-label="PROFILE VIEWS: 1,695"
->
-  <title>PROFILE VIEWS: 501</title>
-  <g shape-rendering="crispEdges">
-    <rect width="112.9521484375" height="28" fill="#555" />
-    <rect
-      x="112.9521484375"
-      width="57.34130859375"
-      height="28"
-      fill="#0e75b6"
-    />
-  </g>
-  <g
-    fill="#fff"
-    text-anchor="middle"
-    text-rendering="geometricPrecision"
-    font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
-    font-size="10"
-    letter-spacing="1.1"
-  >
-    <text x="57.5" y="17.5" fill="#fff">PROFILE VIEWS</text>
-    <text x="140.6521484375" y="17.5" fill="#fff" font-weight="bold">
-      500
-    </text>
-  </g>
-</svg>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="170.29345703125"
+        height="28"
+        role="img"
+        aria-label="PROFILE VIEWS: 1,695"
+      >
+        <title>PROFILE VIEWS: 501</title>
+        <g shape-rendering="crispEdges">
+          <rect width="112.9521484375" height="28" fill="#555" />
+          <rect
+            x="112.9521484375"
+            width="57.34130859375"
+            height="28"
+            fill="#0e75b6"
+          />
+        </g>
+        <g
+          fill="#fff"
+          text-anchor="middle"
+          text-rendering="geometricPrecision"
+          font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+          font-size="10"
+          letter-spacing="1.1"
+        >
+          <text x="57.5" y="17.5" fill="#fff">PROFILE VIEWS</text>
+          <text x="140.6521484375" y="17.5" fill="#fff" font-weight="bold">
+            500
+          </text>
+        </g>
+      </svg>
 
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="137.75"
+        height="28"
+        role="img"
+        aria-label="FOLLOWERS: 22"
+      >
+        <title>FOLLOWERS: 4</title>
+        <g shape-rendering="crispEdges">
+          <rect width="97.25" height="28" fill="#555" />
+          <rect x="97.25" width="40.5" height="28" fill="#ff69b4" />
+        </g>
+        <g
+          fill="#fff"
+          text-anchor="middle"
+          font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+          text-rendering="geometricPrecision"
+          font-size="100"
+        >
+          <text
+            transform="scale(.1)"
+            x="486.25"
+            y="175"
+            textLength="732.5"
+            fill="#fff"
+          >
+            FOLLOWERS
+          </text>
+          <text
+            transform="scale(.1)"
+            x="1175"
+            y="175"
+            textLength="165"
+            fill="#fff"
+            font-weight="bold"
+          >
+            4
+          </text>
+        </g>
+      </svg>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="137.75" height="28" role="img" aria-label="FOLLOWERS: 22"><title>FOLLOWERS: 4</title><g shape-rendering="crispEdges"><rect width="97.25" height="28" fill="#555"/><rect x="97.25" width="40.5" height="28" fill="#ff69b4"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="486.25" y="175" textLength="732.5" fill="#fff">FOLLOWERS</text><text transform="scale(.1)" x="1175" y="175" textLength="165" fill="#fff" font-weight="bold">4</text></g></svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="155.5" height="28" role="img" aria-label="TOTAL STARS: 116"><title>TOTAL STARS: 116</title><a target="_blank" href="https://github.com/Ratna-Babu"><g shape-rendering="crispEdges"><rect width="106.75" height="28" fill="#555"/><rect x="106.75" width="48.75" height="28" fill="gold"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="533.75" y="175" textLength="827.5" fill="#fff">TOTAL STARS</text><text transform="scale(.1)" x="1311.25" y="175" textLength="247.5" fill="#333" font-weight="bold">4</text></g></a></svg>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="155.5"
+        height="28"
+        role="img"
+        aria-label="TOTAL STARS: 116"
+      >
+        <title>TOTAL STARS: 116</title>
+        <a target="_blank" href="https://github.com/Ratna-Babu">
+          <g shape-rendering="crispEdges">
+            <rect width="106.75" height="28" fill="#555" />
+            <rect x="106.75" width="48.75" height="28" fill="gold" />
+          </g>
+          <g
+            fill="#fff"
+            text-anchor="middle"
+            font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+            text-rendering="geometricPrecision"
+            font-size="100"
+          >
+            <text
+              transform="scale(.1)"
+              x="533.75"
+              y="175"
+              textLength="827.5"
+              fill="#fff"
+            >
+              TOTAL STARS
+            </text>
+            <text
+              transform="scale(.1)"
+              x="1311.25"
+              y="175"
+              textLength="247.5"
+              fill="#333"
+              font-weight="bold"
+            >
+              4
+            </text>
+          </g>
+        </a>
+      </svg>
     </div>
 
     <br />
@@ -181,9 +252,9 @@
 
       <div align="left">
         🔭 I'm currently working on **AI-Powered Web Applications** 🌱 I'm
-        currently learning **Full Stack Development, Deep Learning & AI Agents** 👯
-        I'm looking to collaborate on **Open Source AI + Web Dev Projects** 💬
-        Ask me about **React, Next.js** ⚡ Fun fact: **I debug with
+        currently learning **Full Stack Development, Deep Learning & AI Agents**
+        👯 I'm looking to collaborate on **Open Source AI + Web Dev Projects**
+        💬 Ask me about **React, Next.js** ⚡ Fun fact: **I debug with
         `console.log` & chai ☕** 🎯 2026 Goals: **Learn DSA & contribute more
         to Open Source**
       </div>
@@ -217,7 +288,10 @@
           alt="Gmail"
         />
       </a>
-      <a href="https://www.linkedin.com/in/yesha-kushwaha-06548422b/" target="_blank">
+      <a
+        href="https://www.linkedin.com/in/yesha-kushwaha-06548422b/"
+        target="_blank"
+      >
         <img
           src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="LinkedIn"
@@ -250,26 +324,86 @@
       />
     </h2>
 
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-<img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-<img alt="Adobe Illustrator" src="https://img.shields.io/badge/-adobe%20illustrator-30a8ff?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img
+      alt="html5"
+      src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
+    />
+    <img
+      alt="Javascript"
+      src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black"
+    />
+    <img
+      alt="Bootstrap"
+      src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white"
+    />
+    <img
+      alt="TypeScript"
+      src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
+    />
+    <img
+      alt="React"
+      src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
+    />
+    <img
+      alt="angular"
+      src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"
+    />
+    <img
+      alt="Adobe Photoshop"
+      src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white"
+    />
+    <img
+      alt="Adobe XD"
+      src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white"
+    />
+    <img
+      alt="Adobe Illustrator"
+      src="https://img.shields.io/badge/-adobe%20illustrator-30a8ff?style=flat-square&logo=adobe%20illustrator&logoColor=white"
+    />
+    <img
+      alt="Nodejs"
+      src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
+    />
+    <img
+      alt="Webpack"
+      src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"
+    />
+    <img
+      alt="github actions"
+      src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"
+    />
+    <img
+      alt="Google Cloud Platform"
+      src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white"
+    />
+    <img
+      alt="redux"
+      src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
+    />
+    <img
+      alt="Sass"
+      src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
+    />
+    <img
+      alt="Styled Components"
+      src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"
+    />
+    <img
+      alt="git"
+      src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"
+    />
+    <img
+      alt="NestJs"
+      src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"
+    />
+    <img
+      alt="npm"
+      src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"
+    />
+    <img
+      alt="Prettier"
+      src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
+    />
 
     <!-- Footer -->
     <div align="center">
@@ -305,5 +439,3 @@
         >⭐ If you like my work, consider starring some of my repositories!</sub
       >
     </div>
-  </body>
-</html>

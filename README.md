@@ -1,33 +1,24 @@
 <!-- ===================== HEADER ===================== -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Yesha%20Kushwaha&fontSize=60&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=65&descSize=20"
-    alt="Yesha Kushwaha Banner"
-  />
+src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Yesha%20Kushwaha&fontSize=60&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=65&descSize=20" alt="Yesha Kushwaha Banner" />
 </p>
 
 <!-- ===================== TYPING ===================== -->
-
 <p align="center">
   <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=Welcome+to+my+Digital+Space!+%F0%9F%9A%80;AI+%26+Deep+Learning+Explorer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1"
     alt="Typing SVG"
   />
 </p>
 
 <!-- ===================== STATS ===================== -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yesha-kushwaha&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/yesha-kushwaha?label=Followers&style=flat&color=ff69b4" />
-  <img src="https://img.shields.io/github/stars/yesha-kushwaha?label=Total%20Stars&style=flat&color=gold" />
+  <img src="https://img.shields.io/badge/Followers-4-ff69b4?style=flat" />
+  <img src="https://img.shields.io/badge/Total%20Stars-5-gold?style=flat" />
 </p>
-
----
-
 <!-- ===================== ABOUT ===================== -->
-
 <h2 align="center">👋 About Me</h2>
 
 <img
